@@ -1,0 +1,74 @@
+commit 4d77eced1fff07db57f98e8f3c254d2330410120
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Thu Nov 7 23:42:16 2019 -0600
+
+    Fix to Tab Selection
+
+commit 6bb9a9d770820d87f460f1be9a65aa7a84368e5c
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Mon Oct 28 19:15:59 2019 -0500
+
+    Tab Checks to Clean Up Empty Spaces at End
+
+commit ce737f471fb0b36bfb0554e03e13c96796ab479f
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Fri Oct 4 23:10:12 2019 -0500
+
+    Formatting.  That is all.
+
+commit 3172360d9c93f86860db55fdefe00c1af31b8a0a
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Sep 28 19:18:09 2019 -0500
+
+    8.2.5 Update (A.K.A. Nothing)
+
+commit 4538938aeccb7350acdc108b94a4ac935b302bb0
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 22:45:17 2019 -0500
+
+    Changed slash command to /guildbankexport
+
+commit 5b26bde4c21437fc14dfdc0aa50b627c6088e80c
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 22:33:08 2019 -0500
+
+    Added Tab Config Panel with Tab Selection
+
+commit feae2653135307f4d23f8771b722356422aaf0c4
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 18:01:38 2019 -0500
+
+    Added Version tag to TOC
+
+commit 3013015bd24ed361c5abffd4680bcad95ec91f6f
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 17:48:35 2019 -0500
+
+    Updated TOC and file names to match project
+
+commit 2f23ae97d90f1c9a1b762a8f37fd134c6b8a3db3
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 16:58:40 2019 -0500
+
+    Added Readme
+
+commit 3a6ec86c1ea54fbd4ecc8a853b72e3b65fa8ce9b
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 16:05:21 2019 -0500
+
+    Added Command line options to select range of tabs
+
+commit 50f8cd83fdd618e91304ae2e48422099f3cd20e7
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 11:27:06 2019 -0500
+
+    Update GuildExport.lua
+    
+    Little bit of code cleanup and commenting.  Marrenn, HELP.
+
+commit e8cdbff091644563030747b8dee2d4764dced4b3
+Author: jazz836062 <jazz836062@gmail.com>
+Date:   Sat Jul 13 11:19:09 2019 -0500
+
+    Initial commit
+

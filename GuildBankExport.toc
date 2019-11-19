@@ -1,0 +1,5 @@
+## Interface: 80205
+## Title: GuildBankExport
+## Version: 0.4
+## Author: Jazzytwo
+GuildBankExport.lua
